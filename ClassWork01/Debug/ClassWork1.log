@@ -1,0 +1,5 @@
+﻿  ClassWork1.cpp
+C:\Users\Admin\Desktop\ClassWork1\ClassWork1\ClassWork1.cpp(27,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ClassWork1\ClassWork1\ClassWork1.cpp(28,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ClassWork1\ClassWork1\ClassWork1.cpp(29,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ClassWork1.vcxproj -> C:\Users\Admin\Desktop\ClassWork1\Debug\ClassWork1.exe
